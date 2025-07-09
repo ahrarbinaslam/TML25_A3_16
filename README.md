@@ -62,7 +62,7 @@ We chose this configuration to balance attack strength and training efficiency w
 - We did not use a separate validation set, instead, we monitored clean and adversarial accuracy on the training data.
 - Training was stable across all 20 epochs without using a learning rate scheduler.
 
-### 📈 Final Results
+### Final Results
 
 | Metric           | Score     |
 |------------------|-----------|
