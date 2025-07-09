@@ -1,4 +1,4 @@
-# # Robustness (TML Assignment 3 – Team 16)
+# Robustness (TML Assignment 3 – Team 16)
 
 This repository contains our implementation of a robust image classification model developed for **Assignment 3** of the **Trustworthy Machine Learning** course (Summer Semester 2025) at Saarland University.
 
